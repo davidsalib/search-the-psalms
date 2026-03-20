@@ -1,0 +1,218 @@
+{
+    "chapter_num": 15,
+    "verses_count": 5,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Character of Those Who May Dwell with the Lord"
+        },
+        {
+            "type": "section_header",
+            "text": "A Psalm of David."
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", who may "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "sojourn"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "abide in Your tabernacle?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Who may dwell in Your holy hill?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He who walks uprightly,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And works righteousness,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And speaks the truth in his heart;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " does not backbite with his tongue,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Nor does evil to his neighbor,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Nor does he "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "receive"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "take up a reproach against his friend;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "In whose eyes a vile person is despised,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "But he honors those who fear the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ";"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " swears to his own hurt and does not change;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " does not put out his money at usury,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Nor does he take a bribe against the innocent."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "He who does these "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "things"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " shall never be moved."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

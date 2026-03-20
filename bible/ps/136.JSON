@@ -1,0 +1,827 @@
+{
+    "chapter_num": 136,
+    "verses_count": 26,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Thanksgiving to God for His Enduring Mercy"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Oh, give thanks to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", for "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "He is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Oh, give thanks to the God of gods!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Oh, give thanks to the Lord of lords!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who alone does great wonders,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who by wisdom made the heavens,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who laid out the earth above the waters,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who made great lights,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever—"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sun to rule by day,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The moon and stars to rule by night,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who struck Egypt in their firstborn,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And brought out Israel from among them,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "With a strong hand, and with "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Mighty power"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "an outstretched arm,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who divided the Red Sea in two,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And made Israel pass through the midst of it,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But overthrew Pharaoh and his army in the Red Sea,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who led His people through the wilderness,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Him who struck down great kings,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And slew famous kings,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever—"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Sihon king of the Amorites,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Og king of Bashan,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever—"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And gave their land as a "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "inheritance"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "heritage,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "A heritage to Israel His servant,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Who remembered us in our lowly state,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And rescued us from our enemies,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Who gives food to all flesh,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Oh, give thanks to the God of heaven!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For His mercy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "endures"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forever."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

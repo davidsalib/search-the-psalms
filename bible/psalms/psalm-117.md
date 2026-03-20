@@ -1,0 +1,8 @@
+# Psalm 117
+
+
+### Let All Peoples Praise the Lord
+
+**1** Praise the Lord, all you Gentiles! Laud Him, all you peoples!
+
+**2** For His merciful kindness is great toward us, And the truth of the Lord endures forever. Praise the Lord!
