@@ -1,5 +1,7 @@
 # Righteous
 
+[← Revive](revive.md) | [Salvation →](salvation.md)
+
 **Total occurrences in Psalms: 137**
 
 **Verses containing this word: 134**

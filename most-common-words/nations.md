@@ -1,5 +1,7 @@
 # Nations
 
+[← Trouble](trouble.md) | [Help →](help.md)
+
 **Total occurrences in Psalms: 58**
 
 **Verses containing this word: 56**

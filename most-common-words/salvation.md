@@ -1,5 +1,7 @@
 # Salvation
 
+[← Speak](speak.md) | [Israel →](israel.md)
+
 **Total occurrences in Psalms: 64**
 
 **Verses containing this word: 64**

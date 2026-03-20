@@ -1,5 +1,7 @@
 # Righteous
 
+[← Iniquity](iniquity.md) | [Trouble →](trouble.md)
+
 **Total occurrences in Psalms: 61**
 
 **Verses containing this word: 60**

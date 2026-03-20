@@ -1,5 +1,7 @@
 # Wait
 
+[← Truth](truth.md) | [You Will →](you-will.md)
+
 **Total occurrences in Psalms: 28**
 
 **Verses containing this word: 25**

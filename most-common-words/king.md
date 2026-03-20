@@ -1,5 +1,7 @@
 # King
 
+[← Works](works.md) | [Fear →](fear.md)
+
 **Total occurrences in Psalms: 79**
 
 **Verses containing this word: 73**

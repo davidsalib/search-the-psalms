@@ -1,5 +1,7 @@
 # Therefore
 
+[← Cast](cast.md) | [Truth →](truth.md)
+
 **Total occurrences in Psalms: 42**
 
 **Verses containing this word: 42**

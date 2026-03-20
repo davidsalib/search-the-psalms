@@ -1,5 +1,7 @@
 # The Lord Will
 
+[← The Lord Has](the-lord-has.md) | [Troubled →](troubled.md)
+
 **Total occurrences in Psalms: 20**
 
 **Verses containing this word: 19**

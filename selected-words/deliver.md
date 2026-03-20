@@ -1,5 +1,7 @@
 # Deliver
 
+[← Defender](defender.md) | [Destroy →](destroy.md)
+
 **Total occurrences in Psalms: 83**
 
 **Verses containing this word: 80**

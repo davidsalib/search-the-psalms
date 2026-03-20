@@ -1,5 +1,7 @@
 # Wicked
 
+[← Peoples](peoples.md) | [Enemies →](enemies.md)
+
 **Total occurrences in Psalms: 109**
 
 **Verses containing this word: 104**

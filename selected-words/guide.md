@@ -1,5 +1,7 @@
 # Guide
 
+[← Fear](fear.md) | [Hear →](hear.md)
+
 **Total occurrences in Psalms: 9**
 
 **Verses containing this word: 9**

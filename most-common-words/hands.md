@@ -1,5 +1,7 @@
 # Hands
 
+[← Praise](praise.md) | [Earth →](earth.md)
+
 **Total occurrences in Psalms: 142**
 
 **Verses containing this word: 124**

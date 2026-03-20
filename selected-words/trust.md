@@ -1,5 +1,7 @@
 # Trust
 
+[← Troubled](troubled.md) | [Truth →](truth.md)
+
 **Total occurrences in Psalms: 69**
 
 **Verses containing this word: 68**

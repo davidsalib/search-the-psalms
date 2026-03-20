@@ -1,5 +1,7 @@
 # Consider
 
+[← Attend](attend.md) | [Defender →](defender.md)
+
 **Total occurrences in Psalms: 17**
 
 **Verses containing this word: 17**

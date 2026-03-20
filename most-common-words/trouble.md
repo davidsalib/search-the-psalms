@@ -1,5 +1,7 @@
 # Trouble
 
+[← Righteous](righteous.md) | [Nations →](nations.md)
+
 **Total occurrences in Psalms: 60**
 
 **Verses containing this word: 60**

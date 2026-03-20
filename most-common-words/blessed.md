@@ -1,5 +1,7 @@
 # Blessed
 
+[← Endures](endures.md) | [Eyes →](eyes.md)
+
 **Total occurrences in Psalms: 54**
 
 **Verses containing this word: 52**

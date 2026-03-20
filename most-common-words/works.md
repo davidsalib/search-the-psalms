@@ -1,5 +1,7 @@
 # Works
 
+[← Strength](strength.md) | [King →](king.md)
+
 **Total occurrences in Psalms: 79**
 
 **Verses containing this word: 74**

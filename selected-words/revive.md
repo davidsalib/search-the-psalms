@@ -1,5 +1,7 @@
 # Revive
 
+[← Refuge](refuge.md) | [Righteous →](righteous.md)
+
 **Total occurrences in Psalms: 14**
 
 **Verses containing this word: 14**

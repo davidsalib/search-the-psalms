@@ -1,5 +1,7 @@
 # Heavens
 
+[← Righteousness](righteousness.md) | [Brought →](brought.md)
+
 **Total occurrences in Psalms: 74**
 
 **Verses containing this word: 70**

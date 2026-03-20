@@ -1,5 +1,7 @@
 # Help
 
+[← Hear](hear.md) | [Hope →](hope.md)
+
 **Total occurrences in Psalms: 57**
 
 **Verses containing this word: 54**

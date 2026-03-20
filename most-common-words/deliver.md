@@ -1,5 +1,7 @@
 # Deliver
 
+[← Hear](hear.md) | [Good →](good.md)
+
 **Total occurrences in Psalms: 83**
 
 **Verses containing this word: 80**

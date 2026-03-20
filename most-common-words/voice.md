@@ -1,5 +1,7 @@
 # Voice
 
+[← Eyes](eyes.md) | [Land →](land.md)
+
 **Total occurrences in Psalms: 51**
 
 **Verses containing this word: 46**

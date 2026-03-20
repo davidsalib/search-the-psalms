@@ -1,5 +1,7 @@
 # Raise
 
+[← Not Allow](not-allow.md) | [Refuge →](refuge.md)
+
 **Total occurrences in Psalms: 7**
 
 **Verses containing this word: 7**

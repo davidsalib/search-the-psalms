@@ -1,5 +1,7 @@
 # Good
 
+[← Deliver](deliver.md) | [Strength →](strength.md)
+
 **Total occurrences in Psalms: 82**
 
 **Verses containing this word: 78**

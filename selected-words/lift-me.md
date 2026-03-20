@@ -1,5 +1,7 @@
 # Lift Me
 
+[← Law](law.md) | [Light →](light.md)
+
 **Total occurrences in Psalms: 4**
 
 **Verses containing this word: 4**

@@ -1,5 +1,7 @@
 # Rejoice
 
+[← Glory](glory.md) | [Speak →](speak.md)
+
 **Total occurrences in Psalms: 67**
 
 **Verses containing this word: 66**

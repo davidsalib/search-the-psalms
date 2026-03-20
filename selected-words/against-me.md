@@ -1,5 +1,7 @@
 # Against Me
 
+[← Affliction](affliction.md) | [Attend →](attend.md)
+
 **Total occurrences in Psalms: 38**
 
 **Verses containing this word: 34**

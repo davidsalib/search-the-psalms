@@ -1,5 +1,7 @@
 # Mercy
 
+[← Heart](heart.md) | [Peoples →](peoples.md)
+
 **Total occurrences in Psalms: 135**
 
 **Verses containing this word: 130**

@@ -1,5 +1,7 @@
 # The Lord Has
 
+[← Test](test.md) | [The Lord Will →](the-lord-will.md)
+
 **Total occurrences in Psalms: 18**
 
 **Verses containing this word: 18**

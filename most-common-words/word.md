@@ -1,5 +1,7 @@
 # Word
 
+[← Soul](soul.md) | [Hear →](hear.md)
+
 **Total occurrences in Psalms: 89**
 
 **Verses containing this word: 84**

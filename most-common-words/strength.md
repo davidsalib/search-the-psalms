@@ -1,5 +1,7 @@
 # Strength
 
+[← Good](good.md) | [Works →](works.md)
+
 **Total occurrences in Psalms: 79**
 
 **Verses containing this word: 75**

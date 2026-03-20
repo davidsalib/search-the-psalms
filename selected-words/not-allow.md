@@ -1,5 +1,7 @@
 # Not Allow
 
+[← Mercy](mercy.md) | [Raise →](raise.md)
+
 **Total occurrences in Psalms: 2**
 
 **Verses containing this word: 2**

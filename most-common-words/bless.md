@@ -1,5 +1,7 @@
 # Bless
 
+[← Holy](holy.md) | [Evil →](evil.md)
+
 **Total occurrences in Psalms: 48**
 
 **Verses containing this word: 42**

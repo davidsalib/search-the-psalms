@@ -1,5 +1,7 @@
 # Salvation
 
+[← Righteous](righteous.md) | [Set Him →](set-him.md)
+
 **Total occurrences in Psalms: 64**
 
 **Verses containing this word: 64**

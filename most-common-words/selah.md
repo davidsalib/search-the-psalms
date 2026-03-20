@@ -1,5 +1,7 @@
 # Selah
 
+[← Sing](sing.md) | [Trust →](trust.md)
+
 **Total occurrences in Psalms: 71**
 
 **Verses containing this word: 71**

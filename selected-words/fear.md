@@ -1,5 +1,7 @@
 # Fear
 
+[← Distress](distress.md) | [Guide →](guide.md)
+
 **Total occurrences in Psalms: 76**
 
 **Verses containing this word: 73**

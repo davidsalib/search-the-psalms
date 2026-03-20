@@ -1,5 +1,7 @@
 # Look
 
+[← Light](light.md) | [Mercy →](mercy.md)
+
 **Total occurrences in Psalms: 32**
 
 **Verses containing this word: 31**

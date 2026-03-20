@@ -1,5 +1,7 @@
 # Distress
 
+[← Destroy](destroy.md) | [Fear →](fear.md)
+
 **Total occurrences in Psalms: 11**
 
 **Verses containing this word: 11**

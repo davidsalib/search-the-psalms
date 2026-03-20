@@ -1,5 +1,7 @@
 # Set Him
 
+[← Salvation](salvation.md) | [Supporter →](supporter.md)
+
 **Total occurrences in Psalms: 2**
 
 **Verses containing this word: 2**

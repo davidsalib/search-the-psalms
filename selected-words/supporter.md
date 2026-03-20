@@ -1,5 +1,7 @@
 # Supporter
 
+[← Set Him](set-him.md) | [Test →](test.md)
+
 **Total occurrences in Psalms: 1**
 
 **Verses containing this word: 1**

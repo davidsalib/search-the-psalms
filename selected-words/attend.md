@@ -1,5 +1,7 @@
 # Attend
 
+[← Against Me](against-me.md) | [Consider →](consider.md)
+
 **Total occurrences in Psalms: 6**
 
 **Verses containing this word: 6**

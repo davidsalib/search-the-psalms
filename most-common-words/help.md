@@ -1,5 +1,7 @@
 # Help
 
+[← Nations](nations.md) | [Endures →](endures.md)
+
 **Total occurrences in Psalms: 57**
 
 **Verses containing this word: 54**

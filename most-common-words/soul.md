@@ -1,5 +1,7 @@
 # Soul
 
+[← Enemies](enemies.md) | [Word →](word.md)
+
 **Total occurrences in Psalms: 103**
 
 **Verses containing this word: 100**

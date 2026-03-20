@@ -1,5 +1,7 @@
 # Lord
 
+[God →](god.md)
+
 **Total occurrences in Psalms: 788**
 
 **Verses containing this word: 700**

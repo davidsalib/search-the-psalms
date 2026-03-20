@@ -1,5 +1,7 @@
 # Light
 
+[← Lift Me](lift-me.md) | [Look →](look.md)
+
 **Total occurrences in Psalms: 34**
 
 **Verses containing this word: 32**

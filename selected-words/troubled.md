@@ -1,5 +1,7 @@
 # Troubled
 
+[← The Lord Will](the-lord-will.md) | [Trust →](trust.md)
+
 **Total occurrences in Psalms: 60**
 
 **Verses containing this word: 60**

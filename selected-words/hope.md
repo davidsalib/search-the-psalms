@@ -1,5 +1,7 @@
 # Hope
 
+[← Help](help.md) | [Joy →](joy.md)
+
 **Total occurrences in Psalms: 27**
 
 **Verses containing this word: 27**

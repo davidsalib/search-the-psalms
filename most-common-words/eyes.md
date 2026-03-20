@@ -1,5 +1,7 @@
 # Eyes
 
+[← Blessed](blessed.md) | [Voice →](voice.md)
+
 **Total occurrences in Psalms: 54**
 
 **Verses containing this word: 52**

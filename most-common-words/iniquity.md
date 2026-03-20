@@ -1,5 +1,7 @@
 # Iniquity
 
+[← Israel](israel.md) | [Righteous →](righteous.md)
+
 **Total occurrences in Psalms: 62**
 
 **Verses containing this word: 60**

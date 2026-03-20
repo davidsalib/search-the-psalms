@@ -1,5 +1,7 @@
 # Law
 
+[← Joy](joy.md) | [Lift Me →](lift-me.md)
+
 **Total occurrences in Psalms: 40**
 
 **Verses containing this word: 39**

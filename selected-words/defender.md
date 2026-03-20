@@ -1,5 +1,7 @@
 # Defender
 
+[← Consider](consider.md) | [Deliver →](deliver.md)
+
 **Total occurrences in Psalms: 13**
 
 **Verses containing this word: 13**

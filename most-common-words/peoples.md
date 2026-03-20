@@ -1,5 +1,7 @@
 # Peoples
 
+[← Mercy](mercy.md) | [Wicked →](wicked.md)
+
 **Total occurrences in Psalms: 130**
 
 **Verses containing this word: 122**

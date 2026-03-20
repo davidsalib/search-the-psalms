@@ -1,5 +1,7 @@
 # Heart
 
+[← Forever](forever.md) | [Mercy →](mercy.md)
+
 **Total occurrences in Psalms: 138**
 
 **Verses containing this word: 134**

@@ -1,5 +1,7 @@
 # You Will
 
+[← Wait](wait.md) | [Your Way →](your-way.md)
+
 **Total occurrences in Psalms: 36**
 
 **Verses containing this word: 30**

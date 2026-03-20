@@ -1,5 +1,7 @@
 # Your Way
 
+[← You Will](you-will.md)
+
 **Total occurrences in Psalms: 13**
 
 **Verses containing this word: 13**

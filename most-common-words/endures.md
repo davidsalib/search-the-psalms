@@ -1,5 +1,7 @@
 # Endures
 
+[← Help](help.md) | [Blessed →](blessed.md)
+
 **Total occurrences in Psalms: 57**
 
 **Verses containing this word: 57**

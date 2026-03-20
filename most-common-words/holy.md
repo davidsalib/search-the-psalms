@@ -1,5 +1,7 @@
 # Holy
 
+[← Land](land.md) | [Bless →](bless.md)
+
 **Total occurrences in Psalms: 50**
 
 **Verses containing this word: 49**

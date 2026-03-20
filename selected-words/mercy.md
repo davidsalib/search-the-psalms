@@ -1,5 +1,7 @@
 # Mercy
 
+[← Look](look.md) | [Not Allow →](not-allow.md)
+
 **Total occurrences in Psalms: 135**
 
 **Verses containing this word: 130**

@@ -1,5 +1,7 @@
 # Joy
 
+[← Hope](hope.md) | [Law →](law.md)
+
 **Total occurrences in Psalms: 36**
 
 **Verses containing this word: 35**

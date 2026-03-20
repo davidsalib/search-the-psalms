@@ -1,5 +1,7 @@
 # Forever
 
+[← Earth](earth.md) | [Heart →](heart.md)
+
 **Total occurrences in Psalms: 139**
 
 **Verses containing this word: 138**

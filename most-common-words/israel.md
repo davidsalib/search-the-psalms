@@ -1,5 +1,7 @@
 # Israel
 
+[← Salvation](salvation.md) | [Iniquity →](iniquity.md)
+
 **Total occurrences in Psalms: 62**
 
 **Verses containing this word: 60**

@@ -1,5 +1,7 @@
 # Refuge
 
+[← Raise](raise.md) | [Revive →](revive.md)
+
 **Total occurrences in Psalms: 24**
 
 **Verses containing this word: 23**

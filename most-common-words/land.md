@@ -1,5 +1,7 @@
 # Land
 
+[← Voice](voice.md) | [Holy →](holy.md)
+
 **Total occurrences in Psalms: 50**
 
 **Verses containing this word: 50**

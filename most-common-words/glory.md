@@ -1,5 +1,7 @@
 # Glory
 
+[← Mouth](mouth.md) | [Rejoice →](rejoice.md)
+
 **Total occurrences in Psalms: 68**
 
 **Verses containing this word: 66**

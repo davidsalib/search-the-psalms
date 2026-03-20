@@ -1,5 +1,7 @@
 # Truth
 
+[← Therefore](therefore.md)
+
 **Total occurrences in Psalms: 40**
 
 **Verses containing this word: 40**

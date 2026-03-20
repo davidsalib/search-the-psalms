@@ -1,5 +1,7 @@
 # Hear
 
+[← Guide](guide.md) | [Help →](help.md)
+
 **Total occurrences in Psalms: 89**
 
 **Verses containing this word: 86**

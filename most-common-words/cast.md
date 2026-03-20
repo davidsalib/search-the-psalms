@@ -1,5 +1,7 @@
 # Cast
 
+[← Children](children.md) | [Therefore →](therefore.md)
+
 **Total occurrences in Psalms: 43**
 
 **Verses containing this word: 43**

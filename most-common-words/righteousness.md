@@ -1,5 +1,7 @@
 # Righteousness
 
+[← Fear](fear.md) | [Heavens →](heavens.md)
+
 **Total occurrences in Psalms: 74**
 
 **Verses containing this word: 73**

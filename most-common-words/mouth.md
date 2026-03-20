@@ -1,5 +1,7 @@
 # Mouth
 
+[← Trust](trust.md) | [Glory →](glory.md)
+
 **Total occurrences in Psalms: 68**
 
 **Verses containing this word: 67**

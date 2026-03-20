@@ -1,5 +1,7 @@
 # Test
 
+[← Supporter](supporter.md) | [The Lord Has →](the-lord-has.md)
+
 **Total occurrences in Psalms: 51**
 
 **Verses containing this word: 47**

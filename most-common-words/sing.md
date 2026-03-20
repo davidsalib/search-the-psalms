@@ -1,5 +1,7 @@
 # Sing
 
+[← Brought](brought.md) | [Selah →](selah.md)
+
 **Total occurrences in Psalms: 72**
 
 **Verses containing this word: 58**

@@ -1,5 +1,7 @@
 # Earth
 
+[← Hands](hands.md) | [Forever →](forever.md)
+
 **Total occurrences in Psalms: 141**
 
 **Verses containing this word: 139**

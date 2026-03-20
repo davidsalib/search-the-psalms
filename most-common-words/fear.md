@@ -1,5 +1,7 @@
 # Fear
 
+[← King](king.md) | [Righteousness →](righteousness.md)
+
 **Total occurrences in Psalms: 76**
 
 **Verses containing this word: 73**

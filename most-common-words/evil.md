@@ -1,5 +1,7 @@
 # Evil
 
+[← Bless](bless.md) | [House →](house.md)
+
 **Total occurrences in Psalms: 48**
 
 **Verses containing this word: 48**

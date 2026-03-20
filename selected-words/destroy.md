@@ -1,5 +1,7 @@
 # Destroy
 
+[← Deliver](deliver.md) | [Distress →](distress.md)
+
 **Total occurrences in Psalms: 52**
 
 **Verses containing this word: 50**

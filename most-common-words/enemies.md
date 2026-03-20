@@ -1,5 +1,7 @@
 # Enemies
 
+[← Wicked](wicked.md) | [Soul →](soul.md)
+
 **Total occurrences in Psalms: 105**
 
 **Verses containing this word: 103**

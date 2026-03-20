@@ -1,5 +1,7 @@
 # Children
 
+[← House](house.md) | [Cast →](cast.md)
+
 **Total occurrences in Psalms: 46**
 
 **Verses containing this word: 42**
