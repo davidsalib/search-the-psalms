@@ -1,0 +1,20 @@
+# Bring
+
+[← Ways](ways.md) | [Drink →](drink.md)
+
+**Total occurrences in Haggai: 2**
+
+**Verses containing this word: 2**
+
+*Regex used: `\bbring\w*\b`*
+
+---
+
+[**Haggai 1:6**](../bible/haggai/haggai-1.md) — “You have sown much, and **bring** in little;
+You eat, but do not have enough;
+You drink, but you are not filled with drink;
+You clothe yourselves, but no one is warm;
+And he who earns wages,
+Earns wages to put into a bag with holes.”
+
+[**Haggai 1:8**](../bible/haggai/haggai-1.md) — Go up to the mountains and **bring** wood and build the temple, that I may take pleasure in it and be glorified,” says the Lord.

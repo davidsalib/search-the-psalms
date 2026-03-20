@@ -1,0 +1,22 @@
+# Fortify
+
+[← Face](face.md) | [Excellence →](excellence.md)
+
+**Total occurrences in Nahum: 2**
+
+**Verses containing this word: 2**
+
+*Regex used: `\bfortify\w*\b`*
+
+---
+
+[**Nahum 2:1**](../bible/nahum/nahum-2.md) — He who scatters has come up before your face.
+Man the fort!
+Watch the road!
+Strengthen your flanks!
+**Fortify** your power mightily.
+
+[**Nahum 3:14**](../bible/nahum/nahum-3.md) — Draw your water for the siege!
+**Fortify** your strongholds!
+Go into the clay and tread the mortar!
+Make strong the brick kiln!

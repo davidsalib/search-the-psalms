@@ -1,0 +1,47 @@
+# River
+
+[← Temple](temple.md) | [Babylon →](babylon.md)
+
+**Total occurrences in Ezra: 18**
+
+**Verses containing this word: 16**
+
+*Regex used: `\briver\w*\b`*
+
+---
+
+[**Ezra 4:10**](../bible/ezra/ezra-4.md) — and the rest of the nations whom the great and noble Osnapper took captive and settled in the cities of Samaria and the remainder beyond the **River**—and so forth.
+
+[**Ezra 4:11**](../bible/ezra/ezra-4.md) — (This is a copy of the letter that they sent him.)
+To King Artaxerxes from your servants, the men of the region beyond the **River**, and so forth:
+
+[**Ezra 4:16**](../bible/ezra/ezra-4.md) — We inform the king that if this city is rebuilt and its walls are completed, the result will be that you will have no dominion beyond the **River**.
+
+[**Ezra 4:17**](../bible/ezra/ezra-4.md) — The king sent an answer:
+To Rehum the commander, to Shimshai the scribe, to the rest of their companions who dwell in Samaria, and to the remainder beyond the **River**:
+Peace, and so forth.
+
+[**Ezra 4:20**](../bible/ezra/ezra-4.md) — There have also been mighty kings over Jerusalem, who have ruled over all the region beyond the **River**; and tax, tribute, and custom were paid to them.
+
+[**Ezra 5:3**](../bible/ezra/ezra-5.md) — At the same time Tattenai the governor of the region beyond the **River** and Shethar-Boznai and their companions came to them and spoke thus to them: “Who has commanded you to build this temple and finish this wall?”
+
+[**Ezra 5:6**](../bible/ezra/ezra-5.md) — This is a copy of the letter that Tattenai sent:
+The governor of the region beyond the **River**, and Shethar-Boznai, and his companions, the Persians who were in the region beyond the **River**, to Darius the king.
+
+[**Ezra 6:6**](../bible/ezra/ezra-6.md) — Now therefore, Tattenai, governor of the region beyond the **River**, and Shethar-Boznai, and your companions the Persians who are beyond the **River**, keep yourselves far from there.
+
+[**Ezra 6:8**](../bible/ezra/ezra-6.md) — Moreover I issue a decree as to what you shall do for the elders of these Jews, for the building of this house of God: Let the cost be paid at the king’s expense from taxes on the region beyond the **River**; this is to be given immediately to these men, so that they are not hindered.
+
+[**Ezra 6:13**](../bible/ezra/ezra-6.md) — Then Tattenai, governor of the region beyond the **River**, Shethar-Boznai, and their companions diligently did according to what King Darius had sent.
+
+[**Ezra 7:21**](../bible/ezra/ezra-7.md) — And I, even I, Artaxerxes the king, issue a decree to all the treasurers who are in the region beyond the **River**, that whatever Ezra the priest, the scribe of the Law of the God of heaven, may require of you, let it be done diligently,
+
+[**Ezra 7:25**](../bible/ezra/ezra-7.md) — And you, Ezra, according to your God-given wisdom, set magistrates and judges who may judge all the people who are in the region beyond the **River**, all such as know the laws of your God; and teach those who do not know them.
+
+[**Ezra 8:15**](../bible/ezra/ezra-8.md) — Now I gathered them by the **river** that flows to Ahava, and we camped there three days. And I looked among the people and the priests, and found none of the sons of Levi there.
+
+[**Ezra 8:21**](../bible/ezra/ezra-8.md) — Then I proclaimed a fast there at the **river** of Ahava, that we might humble ourselves before our God, to seek from Him the right way for us and our little ones and all our possessions.
+
+[**Ezra 8:31**](../bible/ezra/ezra-8.md) — Then we departed from the **river** of Ahava on the twelfth day of the first month, to go to Jerusalem. And the hand of our God was upon us, and He delivered us from the hand of the enemy and from ambush along the road.
+
+[**Ezra 8:36**](../bible/ezra/ezra-8.md) — And they delivered the king’s orders to the king’s satraps and the governors in the region beyond the **River**. So they gave support to the people and the house of God.

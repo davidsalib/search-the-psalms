@@ -1,0 +1,85 @@
+# Old
+
+[← Shekels](shekels.md) | [Number →](number.md)
+
+**Total occurrences in Numbers: 44**
+
+**Verses containing this word: 37**
+
+*Regex used: `\bold\w*\b`*
+
+---
+
+[**Numbers 1:3**](../bible/numbers/numbers-1.md) — from twenty years **old** and above—all who are able to go to war in Israel. You and Aaron shall number them by their armies.
+
+[**Numbers 1:18**](../bible/numbers/numbers-1.md) — and they assembled all the congregation together on the first day of the second month; and they recited their ancestry by families, by their fathers’ houses, according to the number of names, from twenty years **old** and above, each one individually.
+
+[**Numbers 1:20**](../bible/numbers/numbers-1.md) — Now the children of Reuben, Israel’s **oldest** son, their genealogies by their families, by their fathers’ house, according to the number of names, every male individually, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:22**](../bible/numbers/numbers-1.md) — From the children of Simeon, their genealogies by their families, by their fathers’ house, of those who were numbered, according to the number of names, every male individually, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:24**](../bible/numbers/numbers-1.md) — From the children of Gad, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:26**](../bible/numbers/numbers-1.md) — From the children of Judah, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:28**](../bible/numbers/numbers-1.md) — From the children of Issachar, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:30**](../bible/numbers/numbers-1.md) — From the children of Zebulun, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:32**](../bible/numbers/numbers-1.md) — From the sons of Joseph, the children of Ephraim, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:34**](../bible/numbers/numbers-1.md) — From the children of Manasseh, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:36**](../bible/numbers/numbers-1.md) — From the children of Benjamin, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:38**](../bible/numbers/numbers-1.md) — From the children of Dan, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:40**](../bible/numbers/numbers-1.md) — From the children of Asher, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:42**](../bible/numbers/numbers-1.md) — From the children of Naphtali, their genealogies by their families, by their fathers’ house, according to the number of names, from twenty years **old** and above, all who were able to go to war:
+
+[**Numbers 1:45**](../bible/numbers/numbers-1.md) — So all who were numbered of the children of Israel, by their fathers’ houses, from twenty years **old** and above, all who were able to go to war in Israel—
+
+[**Numbers 3:15**](../bible/numbers/numbers-3.md) — “Number the children of Levi by their fathers’ houses, by their families; you shall number every male from a month **old** and above.”
+
+[**Numbers 3:22**](../bible/numbers/numbers-3.md) — Those who were numbered, according to the number of all the males from a month **old** and above—of those who were numbered there were seven thousand five hundred.
+
+[**Numbers 3:28**](../bible/numbers/numbers-3.md) — According to the number of all the males, from a month **old** and above, there were eight thousand six hundred keeping charge of the sanctuary.
+
+[**Numbers 3:34**](../bible/numbers/numbers-3.md) — And those who were numbered, according to the number of all the males from a month **old** and above, were six thousand two hundred.
+
+[**Numbers 3:39**](../bible/numbers/numbers-3.md) — All who were numbered of the Levites, whom Moses and Aaron numbered at the commandment of the Lord, by their families, all the males from a month **old** and above, were twenty-two thousand.
+
+[**Numbers 3:40**](../bible/numbers/numbers-3.md) — Then the Lord said to Moses: “Number all the firstborn males of the children of Israel from a month **old** and above, and take the number of their names.
+
+[**Numbers 3:43**](../bible/numbers/numbers-3.md) — And all the firstborn males, according to the number of names from a month **old** and above, of those who were numbered of them, were twenty-two thousand two hundred and seventy-three.
+
+[**Numbers 4:3**](../bible/numbers/numbers-4.md) — from thirty years **old** and above, even to fifty years **old**, all who enter the service to do the work in the tabernacle of meeting.
+
+[**Numbers 4:23**](../bible/numbers/numbers-4.md) — From thirty years **old** and above, even to fifty years **old**, you shall number them, all who enter to perform the service, to do the work in the tabernacle of meeting.
+
+[**Numbers 4:30**](../bible/numbers/numbers-4.md) — From thirty years **old** and above, even to fifty years **old**, you shall number them, everyone who enters the service to do the work of the tabernacle of meeting.
+
+[**Numbers 4:35**](../bible/numbers/numbers-4.md) — from thirty years **old** and above, even to fifty years **old**, everyone who entered the service for work in the tabernacle of meeting;
+
+[**Numbers 4:39**](../bible/numbers/numbers-4.md) — from thirty years **old** and above, even to fifty years **old**, everyone who entered the service for work in the tabernacle of meeting—
+
+[**Numbers 4:43**](../bible/numbers/numbers-4.md) — from thirty years **old** and above, even to fifty years **old**, everyone who entered the service for work in the tabernacle of meeting—
+
+[**Numbers 4:47**](../bible/numbers/numbers-4.md) — from thirty years **old** and above, even to fifty years **old**, everyone who came to do the work of service and the work of bearing burdens in the tabernacle of meeting—
+
+[**Numbers 8:24**](../bible/numbers/numbers-8.md) — “This is what pertains to the Levites: From twenty-five years **old** and above one may enter to perform service in the work of the tabernacle of meeting;
+
+[**Numbers 14:29**](../bible/numbers/numbers-14.md) — The carcasses of you who have complained against Me shall fall in this wilderness, all of you who were numbered, according to your entire number, from twenty years **old** and above.
+
+[**Numbers 18:16**](../bible/numbers/numbers-18.md) — And those redeemed of the devoted things you shall redeem when one month **old**, according to your valuation, for five shekels of silver, according to the shekel of the sanctuary, which is twenty gerahs.
+
+[**Numbers 26:2**](../bible/numbers/numbers-26.md) — “Take a census of all the congregation of the children of Israel from twenty years **old** and above, by their fathers’ houses, all who are able to go to war in Israel.”
+
+[**Numbers 26:4**](../bible/numbers/numbers-26.md) — “Take a census of the people from twenty years **old** and above, just as the Lord commanded Moses and the children of Israel who came out of the land of Egypt.”
+
+[**Numbers 26:62**](../bible/numbers/numbers-26.md) — Now those who were numbered of them were twenty-three thousand, every male from a month **old** and above; for they were not numbered among the other children of Israel, because there was no inheritance given to them among the children of Israel.
+
+[**Numbers 32:11**](../bible/numbers/numbers-32.md) — ‘Surely none of the men who came up from Egypt, from twenty years **old** and above, shall see the land of which I swore to Abraham, Isaac, and Jacob, because they have not wholly followed Me,
+
+[**Numbers 33:39**](../bible/numbers/numbers-33.md) — Aaron was one hundred and twenty-three years **old** when he died on Mount Hor.
