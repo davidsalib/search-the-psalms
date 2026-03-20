@@ -1,6 +1,6 @@
 # The Lord Will
 
-[← The Lord Has](the-lord-has.md) | [Troubled →](troubled.md)
+[← The Lord Has](the-lord-has.md) | [Thought →](thought.md)
 
 **Total occurrences in Psalms: 20**
 

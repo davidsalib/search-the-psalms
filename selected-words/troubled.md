@@ -1,6 +1,6 @@
 # Troubled
 
-[← The Lord Will](the-lord-will.md) | [Trust →](trust.md)
+[← Thought](thought.md) | [Trust →](trust.md)
 
 **Total occurrences in Psalms: 60**
 

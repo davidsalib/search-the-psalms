@@ -30,14 +30,15 @@
 | 26 | Revive | 14 | 14 | [revive.md](revive.md) |
 | 27 | Defender | 13 | 13 | [defender.md](defender.md) |
 | 28 | Your Way | 13 | 13 | [your-way.md](your-way.md) |
-| 29 | Distress | 11 | 11 | [distress.md](distress.md) |
-| 30 | Guide | 9 | 9 | [guide.md](guide.md) |
-| 31 | Raise | 7 | 7 | [raise.md](raise.md) |
-| 32 | Attend | 6 | 6 | [attend.md](attend.md) |
-| 33 | Lift Me | 4 | 4 | [lift-me.md](lift-me.md) |
-| 34 | Set Him | 2 | 2 | [set-him.md](set-him.md) |
-| 35 | Not Allow | 2 | 2 | [not-allow.md](not-allow.md) |
-| 36 | Supporter | 1 | 1 | [supporter.md](supporter.md) |
+| 29 | Thought | 13 | 13 | [thought.md](thought.md) |
+| 30 | Distress | 11 | 11 | [distress.md](distress.md) |
+| 31 | Guide | 9 | 9 | [guide.md](guide.md) |
+| 32 | Raise | 7 | 7 | [raise.md](raise.md) |
+| 33 | Attend | 6 | 6 | [attend.md](attend.md) |
+| 34 | Lift Me | 4 | 4 | [lift-me.md](lift-me.md) |
+| 35 | Set Him | 2 | 2 | [set-him.md](set-him.md) |
+| 36 | Not Allow | 2 | 2 | [not-allow.md](not-allow.md) |
+| 37 | Supporter | 1 | 1 | [supporter.md](supporter.md) |
 
 ---
 
